@@ -12,7 +12,7 @@ Instagram : @naufalanas25
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=aufarhmn&color=blue)
+![](https://komarev.com/ghpvc/?username=naufalanasea&color=blue)
 
 ## 📊 My Github Stats
 
