@@ -12,8 +12,6 @@ Instagram : @naufalanas25
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=naufalanasea&color=blue)
-
 ## 📊 My Github Stats
 
 <p align="center">
