@@ -15,7 +15,7 @@ Instagram : @naufalanas25
 ## 📊 My Github Stats
 
 <p align="center">
-    <img title="Streak Stats" alt="naufal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=gruvbox&hide_border=true&stroke=0000&background=000000"/>
+    <img title="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naufalanasea&theme=gruvbox&hide_border=true&border_radius=3.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)"/>
     </a>
 <br/>
 </p>
