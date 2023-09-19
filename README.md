@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me 
 Instagram : @naufalanas25
+Linkedin : Naufal Anas ES Abiyyu 
 
 <h1 align="center">Hola Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
