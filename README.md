@@ -18,9 +18,14 @@
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<p> 
-    align="center">
-    <img title="Streak Stats" alt="Anas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0"/>
+<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=naufalanasea&color=blue)
+
+<p align="center">
+    <img title="Streak Stats" alt="Aufa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 <br/>
 </p>
