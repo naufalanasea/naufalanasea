@@ -22,7 +22,7 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue-dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=naufalanasea&theme=vue-dark&show_icons=true)](https://github.com/naufalanasea/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
                                                                                                                                                   
 
