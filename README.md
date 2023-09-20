@@ -22,8 +22,9 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue-dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak]
-<p align="center">
+
+<p> 
+    align="center">
     <img title="Streak Stats" alt="Anas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 <br/>
