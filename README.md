@@ -18,11 +18,6 @@
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=vue-dark&show_icons=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
 <p> 
     align="center">
     <img title="Streak Stats" alt="Anas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0"/>
