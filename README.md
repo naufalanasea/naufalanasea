@@ -11,7 +11,7 @@
 
 
 <p align="center">
-    <img title="Streak Stats" alt="Anas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="Streak Stats" alt="Anas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalanasea&theme=gruvbox&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 <br/>
 </p>
