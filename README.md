@@ -11,7 +11,7 @@
 
 
 <p align="center">
-    <img title="Streak Stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com?user=naufalanasea&theme=gruvbox&hide_border=true&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"/>
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=naufalanasea)](https://git.io/streak-stats)/>
     </a>
 <br/>
 </p>
