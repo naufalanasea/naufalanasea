@@ -1,11 +1,3 @@
-# Hi there, I'm Naufal Anas👋 
-
-## I'm an enthusiast front end development.
-
-- 🌱 I’m currently learning UI/UX
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about UI/UX and Design Graphic
-
 <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 <br />
