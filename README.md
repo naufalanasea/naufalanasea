@@ -7,10 +7,7 @@
 <br> :seedling: &nbsp;I’m currently learning <b>UI/UX<b>
 <br> :speech_balloon: &nbsp;I like to talk about <b>Website<b> and <b>Graphic Design<b>
 <br> :computer: &nbsp;Connect with me on <b>LinkedIn<b>
-</td>
-<td align="right">
-<a href="#naufalanasea-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=naufalanasea&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="naufalanasea" align="right"/>
+
 </a>
 </td>
 </tr>
