@@ -10,8 +10,7 @@
 <td align="left">
  :office: &nbsp;Undergraduate Student at <b>Ahmad Dahlan University<b>
 <br> :seedling: &nbsp;I’m currently learning <b>UI/UX<b>
-<br> :speech_balloon: &nbsp;I like to talk about <b>Front-End<b> and <b>Go-Lang<b>
-<br> :mailbox: &nbsp;Ask me anything on my <b>Twitter<b>
+<br> :speech_balloon: &nbsp;I like to talk about <b>Website<b> and <b>Graphic Design<b>
 <br> :computer: &nbsp;Connect with me on <b>LinkedIn<b>
 </td>
 <td align="right">
