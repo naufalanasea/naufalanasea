@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hi!</h1>
 
-![Version: 17.07.2022](https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
+(https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=naufalanasea)&nbsp;
 [![GitHub: naufalanasea](https://img.shields.io/github/followers/naufalanasea?label=follow&style=social)](https://github.com/naufalanasea)&nbsp;
 
