@@ -1,8 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hi!</h1>
 
-(https://img.shields.io/badge/version-25.12.2022-informational)&nbsp;
-
-
 <table>
 <tr>
 <td align="left">
