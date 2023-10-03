@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td align="center">
+<td align="right">
  :office: &nbsp;Undergraduate Student at <b>Ahmad Dahlan University<b>
 <br> :seedling: &nbsp;I’m currently learning <b>UI/UX<b>
 <br> :speech_balloon: &nbsp;I like to talk about <b>Website<b> and <b>Graphic Design<b>
