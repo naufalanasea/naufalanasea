@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hi!</h1>
+<h1 align="left" id="macropower-title">:wave: Hi Everyone!</h1>
 
 <table>
 <tr>
